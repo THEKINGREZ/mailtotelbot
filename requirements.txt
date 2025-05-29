@@ -1,0 +1,9 @@
+python-telegram-bot
+python-dotenv
+cryptography
+requests
+mysql-connector-python
+Flask # برای redirect_handler_app.py
+# google-api-python-client # در صورت پیاده‌سازی کامل واکشی ایمیل
+# google-auth-oauthlib # در صورت پیاده‌سازی کامل واکشی ایمیل
+# google-auth-httplib2 # در صورت پیاده‌سازی کامل واکشی ایمیل
